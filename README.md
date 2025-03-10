@@ -1,4 +1,13 @@
 ## Algumas fotos kid do GP
-![Foto 1](ellisonPanda/memorias/fotos_kid/panda.jpg) | ![Foto 2](ellisonPanda/memorias/fotos_kid/erika.jpg) | ![Foto 3](ellisonPanda/memorias/fotos_kid/rani.jpg) |
-|:---------------------------------:|:---------------------------------:|:---------------------------------:|
-| Nome 1                            | Nome 2                            | Nome 3                            |
+<table>
+  <tr>
+    <td><img src="ellisonPanda/memorias/fotos_kid/panda.jpg" alt="Foto 1" width="200"></td>
+    <td><img src="ellisonPanda/memorias/fotos_kid/erika.jpg" alt="Foto 2" width="200"></td>
+    <td><img src="ellisonPanda/memorias/fotos_kid/rani.jpg" alt="Foto 3" width="200"></td>
+  </tr>
+  <tr>
+    <td>Nome 1</td>
+    <td>Nome 2</td>
+    <td>Nome 3</td>
+  </tr>
+</table>                       |
